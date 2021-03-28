@@ -39,7 +39,7 @@ Data Matrix: (171,607,760 x 24)
 
 **City Data Breakdown**
 
-| City       | N        | Covid  | Flu    | Masks  | Testing | Treatments | Sanitizing | Social Distancing | Symptoms | Working |
+| City       | Number of Tweets        | Covid  | Flu    | Masks  | Testing | Treatments | Sanitizing | Social Distancing | Symptoms | Working |
 |------------|----------|--------|--------|--------|---------|------------|------------|-------------------|----------|---------|
 | Atlanta    | 46270298 | 247777 | 132809 | 104868 | 2717    | 89060      | 13421      | 37080             | 16079    | 36182   |
 | Baltimore  | 15027860 | 113708 | 51470  | 34377  | 1348    | 44168      | 4438       | 12905             | 6043     | 13957   |
