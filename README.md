@@ -1,5 +1,5 @@
 # Twitter-Public-Health
-Project for Bowling Green State Universities Hackathon
+Project for Bowling Green State University's Hackathon
 
 # Project Idea
 
@@ -16,7 +16,7 @@ The subjects we consider are the following:
 * Covid Treatments/**Vaccines**
 * **Remote Working**.
 
-If we have time, we will test to see if there is any correlation between a cities covid case counts and that cities general sentiment around covid.  
+If we have time, we will test to see if there is any correlation between a city's covid case counts and that city's general sentiment around covid.  
 
 # Cities Analyzed
 
